@@ -1,0 +1,6 @@
+@KmlAPI_HostAddress = http://localhost:5189
+
+GET {{KmlAPI_HostAddress}}/placemarks/
+Accept: application/json
+
+###
